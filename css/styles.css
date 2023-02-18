@@ -1,0 +1,147 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.list {
+  list-style: none;
+}
+.header {
+  background-color: gray;
+}
+.header-naigation {
+}
+.header-logo {
+}
+.header-link {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+.header-link:hover,
+.header-link:focus {
+  color: #ff6c00;
+}
+.header-item {
+}
+.header-tel {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.header-btn {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+/*------- Hero ---- */
+.hero {
+  background-color: grey;
+}
+.hero-list {
+}
+.hero-item {
+}
+.hero-link {
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 1.36;
+  letter-spacing: 0.2em;
+  color: #ffffff;
+}
+.hero-link:hover,
+.hero-link:focus {
+  color: #ff6c00;
+}
+.hero-subtitle {
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 1.36;
+  text-transform: uppercase;
+  color: rgba(157, 164, 189, 0.6);
+}
+.hero-title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 1.18;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+}
+.hero-description {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.67;
+  letter-spacing: 0.02em;
+  color: #9da4bd;
+}
+/* ----About */
+.about {
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 1.36;
+  text-transform: uppercase;
+  color: #303030;
+}
+.about-list {
+}
+.about-item {
+}
+.abour-subtitle {
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 1.36;
+
+  text-transform: uppercase;
+
+  color: #303030;
+}
+.about-title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.17;
+  letter-spacing: 0.05em;
+
+  color: #303030;
+}
+.about-description {
+  font-size: 14px;
+  line-height: 1.86;
+
+  letter-spacing: 0.02em;
+
+  color: #555555;
+}
+.about-description span {
+  font-size: 18px;
+  line-height: 1.67;
+  letter-spacing: 0.02em;
+
+  color: #555555;
+}
+.about-btn {
+}
+/* -----Bennefits------ */
+.bennefits {
+}
+.bennefites-list {
+}
+.bennefits-item {
+}
+.bennefits-subtitle {
+}
+.bennefits-title {
+}
+.bennefits-description {
+}
